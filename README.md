@@ -12,7 +12,7 @@
 - 🌟 In charge of server maintenance for [Sonic Runners Revival](https://sonicrunners.com/#/)!  
   
 
--  Also contributing to [Outrun for Revival](https://github.com/RunnersRevival/outrun)!  
+- 🛠 Also contributing to [Outrun for Revival](https://github.com/RunnersRevival/outrun)!  
   
 
 - 😭 I can do some frontend but I hate it LOL  
