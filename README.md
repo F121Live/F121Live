@@ -6,7 +6,7 @@
 ### <div align="center">Hiii I'm F121! I'm very passionate about game development!</div>  
   
 
-- 🌟 Main client contributor for [Sonic Runners Revival](https://sonicrunners.com/#/) since (2019-2023)!  
+- 🌟 Main client contributor for [Sonic Runners Revival](https://sonicrunners.com/#/) (2019-2023)!  
   
 
 - 🌟 Was in charge of server maintenance for [Sonic Runners Revival](https://sonicrunners.com/#/)!  
