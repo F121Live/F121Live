@@ -6,13 +6,13 @@
 ### <div align="center">Hiii I'm F121! I'm very passionate about game development!</div>  
   
 
-- 🌟 Main client contributor for [Sonic Runners Revival](https://sonicrunners.com/#/) since 2019!  
+- 🌟 Main client contributor for [Sonic Runners Revival](https://sonicrunners.com/#/) since (2019-2023)!  
   
 
-- 🌟 In charge of server maintenance for [Sonic Runners Revival](https://sonicrunners.com/#/)!  
+- 🌟 Was in charge of server maintenance for [Sonic Runners Revival](https://sonicrunners.com/#/)!  
   
 
-- 🛠 Also contributing to [Outrun for Revival](https://github.com/RunnersRevival/outrun)!  
+- 🛠 Also contributed to [Outrun for Revival](https://github.com/RunnersRevival/outrun)!  
   
 
 - 😭 I can do some frontend but I hate it LOL  
